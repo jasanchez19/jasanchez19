@@ -6,6 +6,7 @@ I’m especially interested in technical support engineering, AI evaluation and 
 
 ## Selected work
 
+- [SupportOps Lab](https://github.com/jasanchez19/supportops-lab) — offline Python service-desk lab with synthetic tickets, explainable triage, diagnostic playbooks, SLA analysis, and audit-ready reports
 - [LLM Evaluation Lab](https://github.com/jasanchez19/llm-evaluation-lab) — transparent Python evaluation harness with synthetic support cases, public rubrics, human review, tests, and inspectable reports
 - [OpenClaw Mission Control](https://github.com/jasanchez19/openclaw-mission-control) — React, TypeScript, Tauri, and Rust desktop console for supervising human and agent work
 - [OpenClaw Agent Operations](https://github.com/jasanchez19/openclaw-agent-operations) — policy validation, human-review gates, bounded execution, and readiness checks for persistent agents
